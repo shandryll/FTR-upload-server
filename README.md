@@ -1,4 +1,7 @@
 # Upload Server
+
+### Dependencies:
+### DevDependencies:
 - Typescript
 - Fastify
 - Biome
