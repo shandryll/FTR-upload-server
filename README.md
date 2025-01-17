@@ -1,8 +1,13 @@
 # Upload Server
-- Typescript
+
+### Dependencies:
 - Fastify
+- Postgres
+- Uuidv7
+- Zod
+
+### DevDependencies:
+- Typescript
 - Biome
 - Drizzle
 - Vitest
-- Postgres
-- Uuidv7
